@@ -1,0 +1,1102 @@
+MBPro:~ mrrobot$ plutil -p /Users/mrrobot/Desktop/com.apple.apsd\ copy.plist 
+{
+  "ActivationRecordListeners" => [
+    0 => "com.apple.aps.ManagedClient.enroll"
+  ]
+  "AllTokenTopics" => {
+    "0" => {
+      "production" => {
+        "com.apple.idmsauth" => 2020-10-24 04:48:30 +0000
+        "com.apple.mobileme.fmip" => 2020-10-24 04:48:13 +0000
+      }
+    }
+    "248" => {
+      "production" => {
+        "com.apple.appstored" => 2020-10-10 06:21:05 +0000
+        "com.apple.icloud-container.com.apple.AdSheetPhone" => 2020-10-10 06:18:01 +0000
+        "com.apple.icloud-container.com.apple.assistant.assistantd" => 2020-10-10 06:16:58 +0000
+        "com.apple.icloud-container.com.apple.callhistory.sync-helper" => 2020-10-10 06:16:58 +0000
+        "com.apple.icloud-container.com.apple.icloud.searchpartyuseragent" => 2020-10-10 06:16:57 +0000
+        "com.apple.icloud-container.com.apple.imagent" => 2020-10-10 06:16:58 +0000
+        "com.apple.icloud-container.com.apple.knowledge-agent" => 2020-10-10 06:17:01 +0000
+        "com.apple.icloud-container.com.apple.security.cuttlefish" => 2020-10-10 06:16:56 +0000
+        "com.apple.icloud-container.com.apple.securityd" => 2020-10-10 06:16:56 +0000
+        "com.apple.icloud-container.com.apple.siriknowledged" => 2020-10-10 06:20:09 +0000
+        "com.apple.icloud-container.com.apple.syncdefaultsd" => 2020-10-10 06:16:56 +0000
+        "com.apple.icloud-container.com.apple.TrustedPeersHelper" => 2020-10-10 06:16:56 +0000
+        "com.apple.icloud.fmip.voiceassistantsync" => 2020-10-10 06:16:58 +0000
+        "com.apple.idmsauth" => 2020-10-10 06:17:51 +0000
+        "com.apple.idmsauthagent" => 2020-10-10 06:16:58 +0000
+        "com.apple.maps.icloud" => 2020-10-10 06:16:58 +0000
+        "com.apple.mobileme.fmf3" => 2020-10-10 06:16:58 +0000
+      }
+    }
+    "501" => {
+      "production" => {
+        "com.apple.account.service" => 2020-10-24 04:48:59 +0000
+        "com.apple.apply.service" => 2020-10-24 04:48:59 +0000
+        "com.apple.appstored" => 2020-10-24 04:49:17 +0000
+        "com.apple.askpermissiond" => 2020-10-24 04:49:08 +0000
+        "com.apple.dt.Xcode" => 2020-10-24 04:48:55 +0000
+        "com.apple.ess" => 2020-10-24 04:48:56 +0000
+        "com.apple.gamed" => 2020-10-24 04:49:17 +0000
+        "com.apple.icloud-container.clouddocs.3L68KQB4HG.com.readdle.CommonDocuments" => 2020-10-24 04:48:59 +0000
+        "com.apple.icloud-container.clouddocs.7PKJ6G4DXL.com.smileonmymac.PDFpen" => 2020-10-24 04:48:59 +0000
+        "com.apple.icloud-container.clouddocs.com.apple.Automator" => 2020-10-24 04:48:59 +0000
+        "com.apple.icloud-container.clouddocs.com.apple.CloudDocs" => 2020-10-24 04:48:59 +0000
+        "com.apple.icloud-container.clouddocs.com.apple.CloudDocs.container-metadata" => 2020-10-24 04:48:59 +0000
+        "com.apple.icloud-container.clouddocs.com.apple.CloudDocs.health" => 2020-10-24 04:48:59 +0000
+        "com.apple.icloud-container.clouddocs.com.apple.CloudDocs.pp-metadata" => 2020-10-24 04:48:59 +0000
+        "com.apple.icloud-container.clouddocs.com.apple.Desktop" => 2020-10-24 04:48:59 +0000
+        "com.apple.icloud-container.clouddocs.com.apple.Documents" => 2020-10-24 04:48:59 +0000
+        "com.apple.icloud-container.clouddocs.com.apple.Grab" => 2020-10-24 04:48:59 +0000
+        "com.apple.icloud-container.clouddocs.com.apple.iBooks.cloudData" => 2020-10-24 04:48:59 +0000
+        "com.apple.icloud-container.clouddocs.com.apple.Keynote" => 2020-10-24 04:48:59 +0000
+        "com.apple.icloud-container.clouddocs.com.apple.mail" => 2020-10-24 04:48:59 +0000
+        "com.apple.icloud-container.clouddocs.com.apple.Numbers" => 2020-10-24 04:48:59 +0000
+        "com.apple.icloud-container.clouddocs.com.apple.Pages" => 2020-10-24 04:48:59 +0000
+        "com.apple.icloud-container.clouddocs.com.apple.Preview" => 2020-10-24 04:48:59 +0000
+        "com.apple.icloud-container.clouddocs.com.apple.QuickTimePlayerX" => 2020-10-24 04:48:59 +0000
+        "com.apple.icloud-container.clouddocs.com.apple.ScriptEditor2" => 2020-10-24 04:48:59 +0000
+        "com.apple.icloud-container.clouddocs.com.apple.shoebox" => 2020-10-24 04:48:59 +0000
+        "com.apple.icloud-container.clouddocs.com.apple.TextEdit" => 2020-10-24 04:48:59 +0000
+        "com.apple.icloud-container.clouddocs.com.apple.TextInput" => 2020-10-24 04:48:59 +0000
+        "com.apple.icloud-container.clouddocs.F3LWYJ7GM7.com.apple.garageband10" => 2020-10-24 04:48:59 +0000
+        "com.apple.icloud-container.clouddocs.F3LWYJ7GM7.com.apple.mobilegarageband" => 2020-10-24 04:48:59 +0000
+        "com.apple.icloud-container.clouddocs.F3LWYJ7GM7.com.apple.musicmemos.ideas" => 2020-10-24 04:48:59 +0000
+        "com.apple.icloud-container.clouddocs.F6266T9T75.com.apple.iMovie" => 2020-10-24 04:48:59 +0000
+        "com.apple.icloud-container.clouddocs.iCloud.com.apple.configurator.ui" => 2020-10-24 04:48:59 +0000
+        "com.apple.icloud-container.clouddocs.iCloud.com.apple.iBooks" => 2020-10-24 04:48:59 +0000
+        "com.apple.icloud-container.clouddocs.iCloud.com.apple.iBooks.iTunesU" => 2020-10-24 04:48:59 +0000
+        "com.apple.icloud-container.clouddocs.iCloud.com.apple.Playgrounds" => 2020-10-24 04:48:59 +0000
+        "com.apple.icloud-container.clouddocs.iCloud.com.barebones.bbedit" => 2020-10-24 04:48:59 +0000
+        "com.apple.icloud-container.clouddocs.iCloud.com.boxcryptor" => 2020-10-24 04:48:59 +0000
+        "com.apple.icloud-container.clouddocs.iCloud.com.comcsoft.iterminal" => 2020-10-24 04:48:59 +0000
+        "com.apple.icloud-container.clouddocs.iCloud.com.infraware.polarisoffice" => 2020-10-24 04:48:59 +0000
+        "com.apple.icloud-container.clouddocs.iCloud.com.macsoftex.rmanager.free" => 2020-10-24 04:48:59 +0000
+        "com.apple.icloud-container.clouddocs.iCloud.com.mousavian.FileManager" => 2020-10-24 04:48:59 +0000
+        "com.apple.icloud-container.clouddocs.iCloud.com.silverfox.Terminal" => 2020-10-24 04:48:59 +0000
+        "com.apple.icloud-container.clouddocs.iCloud.com.skyjos.fileexplorerfree.icloud" => 2020-10-24 04:48:59 +0000
+        "com.apple.icloud-container.clouddocs.iCloud.com.speckcode" => 2020-10-24 04:48:59 +0000
+        "com.apple.icloud-container.clouddocs.iCloud.com.stratospherix.filebrowserbiz" => 2020-10-24 04:48:59 +0000
+        "com.apple.icloud-container.clouddocs.iCloud.is.workflow.my.workflows" => 2020-10-24 04:48:59 +0000
+        "com.apple.icloud-container.clouddocs.iCloud.kr.co.infraware.office.link" => 2020-10-24 04:48:59 +0000
+        "com.apple.icloud-container.clouddocs.iCloud.net.shinyfrog.bear" => 2020-10-24 04:48:59 +0000
+        "com.apple.icloud-container.clouddocs.M28Q9HQMUK.com.mobisystems.OfficeSuite" => 2020-10-24 04:48:59 +0000
+        "com.apple.icloud-container.clouddocs.N6BEXK9638.com.stratospherix.filebrowser" => 2020-10-24 04:48:59 +0000
+        "com.apple.icloud-container.com.apple.AdSheetPhone" => 2020-10-24 04:48:56 +0000
+        "com.apple.icloud-container.com.apple.assistant.assistantd" => 2020-10-24 04:48:59 +0000
+        "com.apple.icloud-container.com.apple.callhistory.sync-helper" => 2020-10-24 04:49:17 +0000
+        "com.apple.icloud-container.com.apple.cloudpaird" => 2020-10-24 04:49:10 +0000
+        "com.apple.icloud-container.com.apple.gamed" => 2020-10-24 04:49:17 +0000
+        "com.apple.icloud-container.com.apple.icloud.searchpartyuseragent" => 2020-10-24 04:49:17 +0000
+        "com.apple.icloud-container.com.apple.imagent" => 2020-10-24 04:49:02 +0000
+        "com.apple.icloud-container.com.apple.keyboardservicesd" => 2020-10-24 04:49:00 +0000
+        "com.apple.icloud-container.com.apple.knowledge-agent" => 2020-10-24 04:48:55 +0000
+        "com.apple.icloud-container.com.apple.Notes" => 2020-10-24 04:48:55 +0000
+        "com.apple.icloud-container.com.apple.photos.cloud" => 2020-10-24 04:49:04 +0000
+        "com.apple.icloud-container.com.apple.protectedcloudstorage.protectedcloudkeysyncing" => 2020-10-24 04:48:56 +0000
+        "com.apple.icloud-container.com.apple.reminders" => 2020-10-24 04:49:01 +0000
+        "com.apple.icloud-container.com.apple.Safari" => 2020-10-24 04:49:17 +0000
+        "com.apple.icloud-container.com.apple.SafariBookmarksSyncAgent" => 2020-10-24 04:49:09 +0000
+        "com.apple.icloud-container.com.apple.ScreenTimeAgent" => 2020-10-24 04:48:56 +0000
+        "com.apple.icloud-container.com.apple.security.cuttlefish" => 2020-10-24 04:48:55 +0000
+        "com.apple.icloud-container.com.apple.securityd" => 2020-10-24 04:48:55 +0000
+        "com.apple.icloud-container.com.apple.siriknowledged" => 2020-10-24 04:49:17 +0000
+        "com.apple.icloud-container.com.apple.suggestd" => 2020-10-24 04:49:00 +0000
+        "com.apple.icloud-container.com.apple.syncdefaultsd" => 2020-10-24 04:48:55 +0000
+        "com.apple.icloud-container.com.apple.TrustedPeersHelper" => 2020-10-24 04:48:55 +0000
+        "com.apple.icloud-container.com.apple.upload-request-proxy.com.apple.photos.cloud" => 2020-10-24 04:49:04 +0000
+        "com.apple.icloud-container.com.apple.willowd" => 2020-10-24 04:48:58 +0000
+        "com.apple.icloud-container.com.apple.willowd.homekit" => 2020-10-24 04:48:58 +0000
+        "com.apple.icloud-container.com.apple.willowd.homekit.camera.clips" => 2020-10-24 04:48:58 +0000
+        "com.apple.icloud.fmip.voiceassistantsync" => 2020-10-24 04:48:56 +0000
+        "com.apple.idmsauth" => 2020-10-24 04:48:56 +0000
+        "com.apple.idmsauthagent" => 2020-10-24 04:49:01 +0000
+        "com.apple.itunesstored" => 2020-10-23 16:50:25 +0000
+        "com.apple.jalisco" => 2020-10-23 16:50:25 +0000
+        "com.apple.madrid" => 2020-10-24 04:48:56 +0000
+        "com.apple.maps.icloud" => 2020-10-24 04:48:57 +0000
+        "com.apple.maspushagent" => 2020-10-23 20:07:52 +0000
+        "com.apple.mobileme.fmf3" => 2020-10-24 04:49:01 +0000
+        "com.apple.music.social" => 2020-10-12 00:36:09 +0000
+        "com.apple.Notes" => 2020-10-24 04:48:55 +0000
+        "com.apple.passd" => 2020-10-24 04:48:59 +0000
+        "com.apple.peerpayment" => 2020-10-24 04:48:59 +0000
+        "com.apple.private.ac" => 2020-10-24 04:48:56 +0000
+        "com.apple.private.alloy.accessibility.switchcontrol" => 2020-10-24 04:48:56 +0000
+        "com.apple.private.alloy.applepay" => 2020-10-24 04:48:56 +0000
+        "com.apple.private.alloy.autobugcapture" => 2020-10-24 04:48:56 +0000
+        "com.apple.private.alloy.avconference.icloud" => 2020-10-24 04:48:56 +0000
+        "com.apple.private.alloy.biz" => 2020-10-24 04:48:56 +0000
+        "com.apple.private.alloy.continuity.activity" => 2020-10-24 04:48:56 +0000
+        "com.apple.private.alloy.continuity.encryption" => 2020-10-24 04:48:56 +0000
+        "com.apple.private.alloy.continuity.tethering" => 2020-10-24 04:48:56 +0000
+        "com.apple.private.alloy.continuity.unlock" => 2020-10-24 04:48:56 +0000
+        "com.apple.private.alloy.copresence" => 2020-10-24 04:48:56 +0000
+        "com.apple.private.alloy.coreduet.sync" => 2020-10-24 04:48:56 +0000
+        "com.apple.private.alloy.digitalhealth" => 2020-10-24 04:48:56 +0000
+        "com.apple.private.alloy.electrictouch" => 2020-10-24 04:48:56 +0000
+        "com.apple.private.alloy.facetime.audio" => 2020-10-24 04:48:56 +0000
+        "com.apple.private.alloy.facetime.lp" => 2020-10-24 04:48:56 +0000
+        "com.apple.private.alloy.facetime.multi" => 2020-10-24 04:48:56 +0000
+        "com.apple.private.alloy.facetime.mw" => 2020-10-24 04:48:56 +0000
+        "com.apple.private.alloy.facetime.video" => 2020-10-24 04:48:56 +0000
+        "com.apple.private.alloy.fmd" => 2020-10-24 04:48:56 +0000
+        "com.apple.private.alloy.fmf" => 2020-10-24 04:48:56 +0000
+        "com.apple.private.alloy.gamecenter" => 2020-10-24 04:48:56 +0000
+        "com.apple.private.alloy.gamecenter.imessage" => 2020-10-24 04:48:56 +0000
+        "com.apple.private.alloy.icloudpairing" => 2020-10-24 04:48:56 +0000
+        "com.apple.private.alloy.ids.cloudmessaging" => 2020-10-24 04:48:56 +0000
+        "com.apple.private.alloy.iosdiagnostics.icloud" => 2020-10-24 04:48:56 +0000
+        "com.apple.private.alloy.maps" => 2020-10-24 04:48:56 +0000
+        "com.apple.private.alloy.messagenotification" => 2020-10-24 04:48:56 +0000
+        "com.apple.private.alloy.multiplex1" => 2020-10-24 04:48:56 +0000
+        "com.apple.private.alloy.nearby" => 2020-10-24 04:48:56 +0000
+        "com.apple.private.alloy.phone.auth" => 2020-10-24 04:48:56 +0000
+        "com.apple.private.alloy.phonecontinuity" => 2020-10-24 04:48:56 +0000
+        "com.apple.private.alloy.photostream" => 2020-10-24 04:48:56 +0000
+        "com.apple.private.alloy.proxiedcrashcopier.icloud" => 2020-10-24 04:48:56 +0000
+        "com.apple.private.alloy.quickrelay" => 2020-10-24 04:48:56 +0000
+        "com.apple.private.alloy.safeview" => 2020-10-24 04:48:56 +0000
+        "com.apple.private.alloy.screensharing" => 2020-10-24 04:48:56 +0000
+        "com.apple.private.alloy.screensharing.qr" => 2020-10-24 04:48:56 +0000
+        "com.apple.private.alloy.sms" => 2020-10-24 04:48:56 +0000
+        "com.apple.private.alloy.thumper.keys" => 2020-10-24 04:48:56 +0000
+        "com.apple.private.alloy.tips" => 2020-10-24 04:48:56 +0000
+        "com.apple.private.alloy.toolchestlite" => 2020-10-24 04:48:56 +0000
+        "com.apple.private.alloy.willow" => 2020-10-24 04:48:56 +0000
+        "com.apple.private.alloy.willow.stream" => 2020-10-24 04:48:56 +0000
+        "com.apple.private.ids" => 2020-10-24 04:48:56 +0000
+        "com.apple.sagad" => 2020-10-23 16:50:25 +0000
+        "com.apple.tilt" => 2020-10-12 00:36:09 +0000
+        "com.icloud.askpermission" => 2020-10-24 04:49:08 +0000
+        "com.icloud.family" => 2020-10-24 04:49:17 +0000
+        "com.icloud.quota" => 2020-10-24 04:49:17 +0000
+        "com.me.cal" => 2020-10-24 04:49:01 +0000
+        "com.me.contacts" => 2020-10-24 04:49:17 +0000
+        "com.me.keyvalueservice" => 2020-10-24 04:48:59 +0000
+        "com.me.setupservice" => 2020-10-24 04:49:17 +0000
+        "com.rockysandstudio.Open-Any-File" => 2020-10-24 04:48:55 +0000
+      }
+    }
+  }
+  "AppIds" => {
+    "production" => {
+      "248" => {
+        "com.apple.icloud-container.com.apple.callhistory.sync-helper" => {
+          "" => 0
+        }
+        "com.apple.icloud-container.com.apple.icloud.searchpartyuseragent" => {
+          "" => 0
+        }
+        "com.apple.idmsauthagent" => {
+          "" => 0
+        }
+      }
+      "501" => {
+        "com.apple.dt.Xcode" => {
+          "" => 0
+        }
+        "com.apple.icloud-container.com.apple.callhistory.sync-helper" => {
+          "" => 0
+        }
+        "com.apple.icloud-container.com.apple.cloudpaird" => {
+          "" => 0
+        }
+        "com.apple.icloud-container.com.apple.icloud.searchpartyuseragent" => {
+          "" => 0
+        }
+        "com.apple.icloud-container.com.apple.willowd" => {
+          "" => 0
+        }
+        "com.apple.icloud-container.com.apple.willowd.homekit" => {
+          "" => 0
+        }
+        "com.apple.icloud-container.com.apple.willowd.homekit.camera.clips" => {
+          "" => 0
+        }
+        "com.apple.icloud.fmip.voiceassistantsync" => {
+          "" => 0
+        }
+        "com.apple.idmsauthagent" => {
+          "" => 0
+        }
+        "com.apple.Notes" => {
+          "" => 0
+        }
+        "com.rockysandstudio.Open-Any-File" => {
+          "" => 0
+        }
+      }
+    }
+  }
+  "APSEnvironments" => {
+    "development" => {
+      "APSLargeMessageSize" => 0
+      "APSMessageSize" => 0
+    }
+    "production" => {
+      "APSLargeMessageSize" => 51200
+      "APSMessageSize" => 5120
+    }
+  }
+  "APSPersistentTopics" => {
+    "0" => {
+      "com.apple.ak.aps" => {
+        "darkWakeEnabled" => 0
+        "enabled" => [
+          0 => "com.apple.idmsauth"
+        ]
+        "environment" => "production"
+        "port" => "com.apple.ak.aps"
+        "processName" => "akd"
+        "tokenAcked" => 1
+        "user" => "0"
+      }
+      "com.apple.icloud.findmydeviced.aps-production" => {
+        "criticalWake" => [
+          0 => "com.apple.mobileme.fmip"
+        ]
+        "darkWake" => [
+          0 => "com.apple.mobileme.fmip"
+        ]
+        "darkWakeEnabled" => 1
+        "enabled" => [
+          0 => "com.apple.mobileme.fmip"
+        ]
+        "environment" => "production"
+        "port" => "com.apple.icloud.findmydeviced.aps-production"
+        "processName" => "findmydeviced"
+        "tokenAcked" => 1
+        "user" => "0"
+      }
+    }
+    "248" => {
+      "com.apple.AdSheetPhone.push" => {
+        "darkWakeEnabled" => 0
+        "enabled" => [
+          0 => "com.apple.icloud-container.com.apple.AdSheetPhone"
+        ]
+        "environment" => "production"
+        "port" => "com.apple.AdSheetPhone.push"
+        "processName" => "adprivacyd"
+        "tokenAcked" => 1
+        "user" => "248"
+      }
+      "com.apple.ak.aps" => {
+        "darkWakeEnabled" => 0
+        "enabled" => [
+          0 => "com.apple.idmsauth"
+        ]
+        "environment" => "production"
+        "port" => "com.apple.ak.aps"
+        "processName" => "akd"
+        "tokenAcked" => 1
+        "user" => "248"
+      }
+      "com.apple.aps.appstoreagent" => {
+        "darkWakeEnabled" => 0
+        "enabled" => [
+          0 => "com.apple.appstored"
+        ]
+        "environment" => "production"
+        "port" => "com.apple.aps.appstoreagent"
+        "processName" => "appstoreagent"
+        "tokenAcked" => 1
+        "user" => "248"
+      }
+      "com.apple.aps.assistantd.fmip" => {
+        "darkWakeEnabled" => 0
+        "enabled" => [
+          0 => "com.apple.icloud.fmip.voiceassistantsync"
+        ]
+        "environment" => "production"
+        "port" => "com.apple.aps.assistantd.fmip"
+        "processName" => "assistantd"
+        "tokenAcked" => 1
+        "user" => "248"
+      }
+      "com.apple.aps.kvsd" => {
+        "darkWake" => [
+          0 => "com.apple.icloud-container.com.apple.syncdefaultsd"
+        ]
+        "darkWakeEnabled" => 1
+        "enabled" => [
+          0 => "com.apple.icloud-container.com.apple.syncdefaultsd"
+        ]
+        "environment" => "production"
+        "port" => "com.apple.aps.kvsd"
+        "processName" => "syncdefaultsd"
+        "tokenAcked" => 1
+        "user" => "248"
+      }
+      "com.apple.aps.searchpartyuseragent" => {
+        "appIds" => {
+          "com.apple.icloud-container.com.apple.icloud.searchpartyuseragent" => [
+            0 => ""
+          ]
+        }
+        "darkWakeEnabled" => 0
+        "enabled" => [
+          0 => "com.apple.icloud-container.com.apple.icloud.searchpartyuseragent"
+        ]
+        "environment" => "production"
+        "port" => "com.apple.aps.searchpartyuseragent"
+        "processName" => "searchpartyuseragent"
+        "tokenAcked" => 1
+        "user" => "248"
+      }
+      "com.apple.assistantd.aps" => {
+        "darkWakeEnabled" => 0
+        "enabled" => [
+          0 => "com.apple.icloud-container.com.apple.assistant.assistantd"
+        ]
+        "environment" => "production"
+        "port" => "com.apple.assistantd.aps"
+        "processName" => "assistantd"
+        "tokenAcked" => 1
+        "user" => "248"
+      }
+      "com.apple.CallHistorySyncHelper.aps" => {
+        "appIds" => {
+          "com.apple.icloud-container.com.apple.callhistory.sync-helper" => [
+            0 => ""
+          ]
+        }
+        "darkWakeEnabled" => 0
+        "enabled" => [
+          0 => "com.apple.icloud-container.com.apple.callhistory.sync-helper"
+        ]
+        "environment" => "production"
+        "port" => "com.apple.CallHistorySyncHelper.aps"
+        "processName" => "CallHistorySyncHelper"
+        "tokenAcked" => 1
+        "user" => "248"
+      }
+      "com.apple.coreduet.knowledge.sync.push" => {
+        "darkWake" => [
+          0 => "com.apple.icloud-container.com.apple.knowledge-agent"
+        ]
+        "darkWakeEnabled" => 1
+        "environment" => "production"
+        "opportunistic" => [
+          0 => "com.apple.icloud-container.com.apple.knowledge-agent"
+        ]
+        "port" => "com.apple.coreduet.knowledge.sync.push"
+        "processName" => "knowledge-agent"
+        "tokenAcked" => 1
+        "user" => "248"
+      }
+      "com.apple.coreservices.appleid.aps" => {
+        "appIds" => {
+          "com.apple.idmsauthagent" => [
+            0 => ""
+          ]
+        }
+        "darkWakeEnabled" => 0
+        "enabled" => [
+          0 => "com.apple.idmsauthagent"
+        ]
+        "environment" => "production"
+        "port" => "com.apple.coreservices.appleid.aps"
+        "processName" => "sharingd"
+        "tokenAcked" => 1
+        "user" => "248"
+      }
+      "com.apple.icloud.fmfd.aps" => {
+        "darkWakeEnabled" => 0
+        "enabled" => [
+          0 => "com.apple.mobileme.fmf3"
+        ]
+        "environment" => "production"
+        "port" => "com.apple.icloud.fmfd.aps"
+        "processName" => "fmfd"
+        "tokenAcked" => 1
+        "user" => "248"
+      }
+      "com.apple.imagent.aps" => {
+        "darkWake" => [
+          0 => "com.apple.icloud-container.com.apple.imagent"
+        ]
+        "darkWakeEnabled" => 1
+        "enabled" => [
+          0 => "com.apple.icloud-container.com.apple.imagent"
+        ]
+        "environment" => "production"
+        "port" => "com.apple.imagent.aps"
+        "processName" => "imagent"
+        "tokenAcked" => 1
+        "user" => "248"
+      }
+      "com.apple.Maps.mapspushd.icloud" => {
+        "darkWakeEnabled" => 0
+        "enabled" => [
+          0 => "com.apple.maps.icloud"
+        ]
+        "environment" => "production"
+        "port" => "com.apple.Maps.mapspushd.icloud"
+        "processName" => "mapspushd"
+        "tokenAcked" => 1
+        "user" => "248"
+      }
+      "com.apple.SafariBookmarksSyncAgent.Push" => {
+        "darkWakeEnabled" => 0
+        "environment" => "production"
+        "ignored" => [
+          0 => "com.apple.icloud-container.com.apple.SafariBookmarksSyncAgent"
+        ]
+        "port" => "com.apple.SafariBookmarksSyncAgent.Push"
+        "processName" => "SafariBookmarksSyncAgent"
+        "tokenAcked" => 1
+        "user" => "248"
+      }
+      "com.apple.securityd.aps" => {
+        "darkWake" => [
+          0 => "com.apple.icloud-container.com.apple.securityd"
+          1 => "com.apple.icloud-container.com.apple.TrustedPeersHelper"
+          2 => "com.apple.icloud-container.com.apple.security.cuttlefish"
+        ]
+        "darkWakeEnabled" => 1
+        "enabled" => [
+          0 => "com.apple.icloud-container.com.apple.security.cuttlefish"
+          1 => "com.apple.icloud-container.com.apple.securityd"
+          2 => "com.apple.icloud-container.com.apple.TrustedPeersHelper"
+        ]
+        "environment" => "production"
+        "port" => "com.apple.securityd.aps"
+        "processName" => "secd"
+        "tokenAcked" => 1
+        "user" => "248"
+      }
+      "com.apple.siriknowledged.aps" => {
+        "darkWakeEnabled" => 0
+        "enabled" => [
+          0 => "com.apple.icloud-container.com.apple.siriknowledged"
+        ]
+        "environment" => "production"
+        "port" => "com.apple.siriknowledged.aps"
+        "processName" => "siriknowledged"
+        "tokenAcked" => 1
+        "user" => "248"
+      }
+    }
+    "501" => {
+      "com.apple.AddressBook.PushNotification" => {
+        "darkWake" => [
+          0 => "com.me.contacts"
+        ]
+        "darkWakeEnabled" => 1
+        "enabled" => [
+          0 => "com.me.contacts"
+        ]
+        "environment" => "production"
+        "port" => "com.apple.AddressBook.PushNotification"
+        "processName" => "AddressBookSourceSync"
+        "tokenAcked" => 1
+        "user" => "501"
+      }
+      "com.apple.ak.aps" => {
+        "darkWakeEnabled" => 0
+        "enabled" => [
+          0 => "com.apple.idmsauth"
+        ]
+        "environment" => "production"
+        "port" => "com.apple.ak.aps"
+        "processName" => "akd"
+        "tokenAcked" => 1
+        "user" => "501"
+      }
+      "com.apple.AOSPushRelay.push" => {
+        "darkWakeEnabled" => 0
+        "enabled" => [
+          0 => "com.me.setupservice"
+          1 => "com.icloud.quota"
+          2 => "com.icloud.family"
+        ]
+        "environment" => "production"
+        "port" => "com.apple.AOSPushRelay.push"
+        "processName" => "AOSPushRelay"
+        "tokenAcked" => 1
+        "user" => "501"
+      }
+      "com.apple.aps.appstoreagent" => {
+        "darkWakeEnabled" => 0
+        "enabled" => [
+          0 => "com.apple.appstored"
+        ]
+        "environment" => "production"
+        "port" => "com.apple.aps.appstoreagent"
+        "processName" => "appstoreagent"
+        "tokenAcked" => 1
+        "user" => "501"
+      }
+      "com.apple.aps.askpermission" => {
+        "darkWakeEnabled" => 0
+        "enabled" => [
+          0 => "com.apple.askpermissiond"
+          1 => "com.icloud.askpermission"
+        ]
+        "environment" => "production"
+        "port" => "com.apple.aps.askpermission"
+        "processName" => "askpermissiond"
+        "tokenAcked" => 1
+        "user" => "501"
+      }
+      "com.apple.aps.assistantd.fmip" => {
+        "darkWakeEnabled" => 0
+        "enabled" => [
+          0 => "com.apple.icloud.fmip.voiceassistantsync"
+        ]
+        "environment" => "production"
+        "port" => "com.apple.aps.assistantd.fmip"
+        "processName" => "assistantd"
+        "tokenAcked" => 1
+        "user" => "501"
+      }
+      "com.apple.aps.gamed.CK" => {
+        "darkWakeEnabled" => 0
+        "enabled" => [
+          0 => "com.apple.icloud-container.com.apple.gamed"
+        ]
+        "environment" => "production"
+        "port" => "com.apple.aps.gamed.CK"
+        "processName" => "gamed"
+        "tokenAcked" => 1
+        "user" => "501"
+      }
+      "com.apple.aps.kvsd" => {
+        "darkWake" => [
+          0 => "com.apple.icloud-container.com.apple.syncdefaultsd"
+        ]
+        "darkWakeEnabled" => 1
+        "enabled" => [
+          0 => "com.apple.icloud-container.com.apple.syncdefaultsd"
+        ]
+        "environment" => "production"
+        "port" => "com.apple.aps.kvsd"
+        "processName" => "syncdefaultsd"
+        "tokenAcked" => 1
+        "user" => "501"
+      }
+      "com.apple.aps.remindd" => {
+        "darkWake" => [
+          0 => "com.apple.icloud-container.com.apple.reminders"
+        ]
+        "darkWakeEnabled" => 1
+        "enabled" => [
+          0 => "com.apple.icloud-container.com.apple.reminders"
+        ]
+        "environment" => "production"
+        "port" => "com.apple.aps.remindd"
+        "processName" => "remindd"
+        "pushWake" => [
+          0 => "com.apple.icloud-container.com.apple.reminders"
+        ]
+        "tokenAcked" => 1
+        "user" => "501"
+      }
+      "com.apple.aps.remindd.dataaccess" => {
+        "darkWake" => [
+          0 => "com.me.cal"
+        ]
+        "darkWakeEnabled" => 1
+        "enabled" => [
+          0 => "com.me.cal"
+        ]
+        "environment" => "production"
+        "port" => "com.apple.aps.remindd.dataaccess"
+        "processName" => "remindd"
+        "pushWake" => [
+          0 => "com.me.cal"
+        ]
+        "tokenAcked" => 1
+        "user" => "501"
+      }
+      "com.apple.aps.SafariCloudHistoryPushAgent" => {
+        "darkWakeEnabled" => 0
+        "enabled" => [
+          0 => "com.apple.icloud-container.com.apple.Safari"
+        ]
+        "environment" => "production"
+        "port" => "com.apple.aps.SafariCloudHistoryPushAgent"
+        "processName" => "SafariCloudHistoryPushAgent"
+        "tokenAcked" => 1
+        "user" => "501"
+      }
+      "com.apple.aps.ScreenTime" => {
+        "darkWakeEnabled" => 0
+        "enabled" => [
+          0 => "com.apple.icloud-container.com.apple.ScreenTimeAgent"
+        ]
+        "environment" => "production"
+        "port" => "com.apple.aps.ScreenTime"
+        "processName" => "ScreenTimeAgent"
+        "tokenAcked" => 1
+        "user" => "501"
+      }
+      "com.apple.aps.searchpartyuseragent" => {
+        "appIds" => {
+          "com.apple.icloud-container.com.apple.icloud.searchpartyuseragent" => [
+            0 => ""
+          ]
+        }
+        "darkWakeEnabled" => 0
+        "enabled" => [
+          0 => "com.apple.icloud-container.com.apple.icloud.searchpartyuseragent"
+        ]
+        "environment" => "production"
+        "port" => "com.apple.aps.searchpartyuseragent"
+        "processName" => "searchpartyuseragent"
+        "tokenAcked" => 1
+        "user" => "501"
+      }
+      "com.apple.aps.suggestd" => {
+        "darkWakeEnabled" => 0
+        "enabled" => [
+          0 => "com.apple.icloud-container.com.apple.suggestd"
+        ]
+        "environment" => "production"
+        "port" => "com.apple.aps.suggestd"
+        "processName" => "suggestd"
+        "tokenAcked" => 1
+        "user" => "501"
+      }
+      "com.apple.assistantd.aps" => {
+        "darkWakeEnabled" => 0
+        "enabled" => [
+          0 => "com.apple.icloud-container.com.apple.assistant.assistantd"
+        ]
+        "environment" => "production"
+        "port" => "com.apple.assistantd.aps"
+        "processName" => "assistantd"
+        "tokenAcked" => 1
+        "user" => "501"
+      }
+      "com.apple.bird.push" => {
+        "darkWakeEnabled" => 0
+        "enabled" => [
+          0 => "com.apple.icloud-container.clouddocs.com.apple.Numbers"
+          1 => "com.apple.icloud-container.clouddocs.F3LWYJ7GM7.com.apple.garageband10"
+          2 => "com.apple.icloud-container.clouddocs.com.apple.shoebox"
+          3 => "com.apple.icloud-container.clouddocs.iCloud.com.boxcryptor"
+          4 => "com.apple.icloud-container.clouddocs.com.apple.Automator"
+          5 => "com.apple.icloud-container.clouddocs.com.apple.iBooks.cloudData"
+          6 => "com.apple.icloud-container.clouddocs.com.apple.Keynote"
+          7 => "com.apple.icloud-container.clouddocs.iCloud.com.silverfox.Terminal"
+          8 => "com.apple.icloud-container.clouddocs.iCloud.com.apple.iBooks.iTunesU"
+          9 => "com.apple.icloud-container.clouddocs.com.apple.Grab"
+          10 => "com.apple.icloud-container.clouddocs.iCloud.com.mousavian.FileManager"
+          11 => "com.apple.icloud-container.clouddocs.iCloud.com.skyjos.fileexplorerfree.icloud"
+          12 => "com.apple.icloud-container.clouddocs.iCloud.com.stratospherix.filebrowserbiz"
+          13 => "com.apple.icloud-container.clouddocs.com.apple.Documents"
+          14 => "com.apple.icloud-container.clouddocs.com.apple.QuickTimePlayerX"
+          15 => "com.apple.icloud-container.clouddocs.iCloud.net.shinyfrog.bear"
+          16 => "com.apple.icloud-container.clouddocs.com.apple.Preview"
+          17 => "com.apple.icloud-container.clouddocs.com.apple.CloudDocs.health"
+          18 => "com.apple.icloud-container.clouddocs.iCloud.is.workflow.my.workflows"
+          19 => "com.apple.icloud-container.clouddocs.com.apple.CloudDocs"
+          20 => "com.apple.icloud-container.clouddocs.iCloud.com.macsoftex.rmanager.free"
+          21 => "com.apple.icloud-container.clouddocs.com.apple.Desktop"
+          22 => "com.apple.icloud-container.clouddocs.7PKJ6G4DXL.com.smileonmymac.PDFpen"
+          23 => "com.apple.icloud-container.clouddocs.M28Q9HQMUK.com.mobisystems.OfficeSuite"
+          24 => "com.apple.icloud-container.clouddocs.F3LWYJ7GM7.com.apple.mobilegarageband"
+          25 => "com.apple.icloud-container.clouddocs.3L68KQB4HG.com.readdle.CommonDocuments"
+          26 => "com.apple.icloud-container.clouddocs.com.apple.Pages"
+          27 => "com.apple.icloud-container.clouddocs.iCloud.com.apple.iBooks"
+          28 => "com.apple.icloud-container.clouddocs.com.apple.TextEdit"
+          29 => "com.apple.icloud-container.clouddocs.F6266T9T75.com.apple.iMovie"
+          30 => "com.apple.icloud-container.clouddocs.iCloud.com.comcsoft.iterminal"
+          31 => "com.apple.icloud-container.clouddocs.com.apple.CloudDocs.container-metadata"
+          32 => "com.apple.icloud-container.clouddocs.com.apple.TextInput"
+          33 => "com.apple.icloud-container.clouddocs.iCloud.com.apple.Playgrounds"
+          34 => "com.apple.icloud-container.clouddocs.F3LWYJ7GM7.com.apple.musicmemos.ideas"
+          35 => "com.apple.icloud-container.clouddocs.com.apple.CloudDocs.pp-metadata"
+          36 => "com.apple.icloud-container.clouddocs.com.apple.ScriptEditor2"
+          37 => "com.apple.icloud-container.clouddocs.iCloud.com.speckcode"
+          38 => "com.apple.icloud-container.clouddocs.N6BEXK9638.com.stratospherix.filebrowser"
+          39 => "com.apple.icloud-container.clouddocs.com.apple.mail"
+          40 => "com.apple.icloud-container.clouddocs.iCloud.com.infraware.polarisoffice"
+          41 => "com.apple.icloud-container.clouddocs.iCloud.kr.co.infraware.office.link"
+          42 => "com.apple.icloud-container.clouddocs.iCloud.com.apple.configurator.ui"
+          43 => "com.apple.icloud-container.clouddocs.iCloud.com.barebones.bbedit"
+        ]
+        "environment" => "production"
+        "port" => "com.apple.bird.push"
+        "processName" => "bird"
+        "tokenAcked" => 1
+        "user" => "501"
+      }
+      "com.apple.CalendarAgent.push" => {
+        "darkWake" => [
+          0 => "com.me.cal"
+        ]
+        "darkWakeEnabled" => 1
+        "enabled" => [
+          0 => "com.me.cal"
+        ]
+        "environment" => "production"
+        "port" => "com.apple.CalendarAgent.push"
+        "processName" => "CalendarAgent"
+        "tokenAcked" => 1
+        "user" => "501"
+      }
+      "com.apple.CallHistorySyncHelper.aps" => {
+        "appIds" => {
+          "com.apple.icloud-container.com.apple.callhistory.sync-helper" => [
+            0 => ""
+          ]
+        }
+        "darkWakeEnabled" => 0
+        "enabled" => [
+          0 => "com.apple.icloud-container.com.apple.callhistory.sync-helper"
+        ]
+        "environment" => "production"
+        "port" => "com.apple.CallHistorySyncHelper.aps"
+        "processName" => "CallHistorySyncHelper"
+        "tokenAcked" => 1
+        "user" => "501"
+      }
+      "com.apple.coreduet.knowledge.sync.push" => {
+        "darkWake" => [
+          0 => "com.apple.icloud-container.com.apple.knowledge-agent"
+        ]
+        "darkWakeEnabled" => 1
+        "environment" => "production"
+        "opportunistic" => [
+          0 => "com.apple.icloud-container.com.apple.knowledge-agent"
+        ]
+        "port" => "com.apple.coreduet.knowledge.sync.push"
+        "processName" => "knowledge-agent"
+        "tokenAcked" => 1
+        "user" => "501"
+      }
+      "com.apple.coreservices.appleid.aps" => {
+        "appIds" => {
+          "com.apple.idmsauthagent" => [
+            0 => ""
+          ]
+        }
+        "darkWakeEnabled" => 0
+        "enabled" => [
+          0 => "com.apple.idmsauthagent"
+        ]
+        "environment" => "production"
+        "port" => "com.apple.coreservices.appleid.aps"
+        "processName" => "sharingd"
+        "tokenAcked" => 1
+        "user" => "501"
+      }
+      "com.apple.gamed.aps" => {
+        "darkWakeEnabled" => 0
+        "enabled" => [
+          0 => "com.apple.gamed"
+        ]
+        "environment" => "production"
+        "port" => "com.apple.gamed.aps"
+        "processName" => "gamed"
+        "tokenAcked" => 1
+        "user" => "501"
+      }
+      "com.apple.homed.aps" => {
+        "appIds" => {
+          "com.apple.icloud-container.com.apple.willowd.homekit" => [
+            0 => ""
+          ]
+        }
+        "darkWakeEnabled" => 0
+        "enabled" => [
+          0 => "com.apple.icloud-container.com.apple.willowd.homekit"
+        ]
+        "environment" => "production"
+        "port" => "com.apple.homed.aps"
+        "processName" => "homed"
+        "tokenAcked" => 1
+        "user" => "501"
+      }
+      "com.apple.icloud.fmfd.aps" => {
+        "darkWakeEnabled" => 0
+        "enabled" => [
+          0 => "com.apple.mobileme.fmf3"
+        ]
+        "environment" => "production"
+        "port" => "com.apple.icloud.fmfd.aps"
+        "processName" => "fmfd"
+        "tokenAcked" => 1
+        "user" => "501"
+      }
+      "com.apple.identityservicesd.aps" => {
+        "darkWake" => [
+          0 => "com.apple.private.alloy.copresence"
+          1 => "com.apple.private.alloy.fmd"
+          2 => "com.apple.private.alloy.coreduet.sync"
+          3 => "com.apple.private.alloy.avconference.icloud"
+          4 => "com.apple.private.alloy.screensharing"
+          5 => "com.apple.private.ids"
+          6 => "com.apple.private.alloy.toolchestlite"
+          7 => "com.apple.private.alloy.accessibility.switchcontrol"
+          8 => "com.apple.private.alloy.safeview"
+          9 => "com.apple.private.alloy.fmf"
+          10 => "com.apple.private.alloy.ids.cloudmessaging"
+          11 => "com.apple.private.alloy.screensharing.qr"
+          12 => "com.apple.private.alloy.maps"
+          13 => "com.apple.private.alloy.gamecenter"
+          14 => "com.apple.private.alloy.quickrelay"
+          15 => "com.apple.private.alloy.thumper.keys"
+          16 => "com.apple.private.alloy.continuity.tethering"
+          17 => "com.apple.private.alloy.autobugcapture"
+          18 => "com.apple.private.alloy.phonecontinuity"
+          19 => "com.apple.private.alloy.facetime.multi"
+          20 => "com.apple.private.alloy.facetime.lp"
+          21 => "com.apple.private.alloy.messagenotification"
+          22 => "com.apple.private.alloy.continuity.unlock"
+          23 => "com.apple.madrid"
+          24 => "com.apple.private.alloy.applepay"
+          25 => "com.apple.private.alloy.digitalhealth"
+          26 => "com.apple.private.alloy.tips"
+          27 => "com.apple.private.alloy.electrictouch"
+          28 => "com.apple.private.ac"
+          29 => "com.apple.ess"
+          30 => "com.apple.private.alloy.continuity.activity"
+          31 => "com.apple.private.alloy.phone.auth"
+          32 => "com.apple.private.alloy.classroom"
+          33 => "com.apple.private.alloy.gamecenter.imessage"
+          34 => "com.apple.private.alloy.icloudpairing"
+          35 => "com.apple.private.alloy.biz"
+          36 => "com.apple.private.alloy.willow"
+          37 => "com.apple.private.alloy.proxiedcrashcopier.icloud"
+          38 => "com.apple.private.alloy.iosdiagnostics.icloud"
+          39 => "com.apple.private.alloy.multiplex1"
+          40 => "com.apple.private.alloy.livability"
+          41 => "com.apple.private.alloy.willow.stream"
+          42 => "com.apple.private.alloy.facetime.mw"
+          43 => "com.apple.private.alloy.photostream"
+          44 => "com.apple.private.alloy.facetime.video"
+          45 => "com.apple.private.alloy.facetime.audio"
+          46 => "com.apple.private.alloy.continuity.encryption"
+          47 => "com.apple.private.alloy.sms"
+          48 => "com.apple.private.alloy.nearby"
+        ]
+        "darkWakeEnabled" => 1
+        "enabled" => [
+          0 => "com.apple.private.alloy.copresence"
+          1 => "com.apple.private.alloy.fmd"
+          2 => "com.apple.private.alloy.coreduet.sync"
+          3 => "com.apple.private.alloy.avconference.icloud"
+          4 => "com.apple.private.alloy.screensharing"
+          5 => "com.apple.private.ids"
+          6 => "com.apple.private.alloy.toolchestlite"
+          7 => "com.apple.private.alloy.accessibility.switchcontrol"
+          8 => "com.apple.private.alloy.safeview"
+          9 => "com.apple.private.alloy.fmf"
+          10 => "com.apple.private.alloy.ids.cloudmessaging"
+          11 => "com.apple.private.alloy.screensharing.qr"
+          12 => "com.apple.private.alloy.maps"
+          13 => "com.apple.private.alloy.gamecenter"
+          14 => "com.apple.private.alloy.thumper.keys"
+          15 => "com.apple.private.alloy.quickrelay"
+          16 => "com.apple.private.alloy.continuity.tethering"
+          17 => "com.apple.private.alloy.autobugcapture"
+          18 => "com.apple.private.alloy.phonecontinuity"
+          19 => "com.apple.private.alloy.facetime.multi"
+          20 => "com.apple.private.alloy.facetime.lp"
+          21 => "com.apple.private.alloy.messagenotification"
+          22 => "com.apple.private.alloy.continuity.unlock"
+          23 => "com.apple.madrid"
+          24 => "com.apple.private.alloy.applepay"
+          25 => "com.apple.private.alloy.digitalhealth"
+          26 => "com.apple.private.alloy.tips"
+          27 => "com.apple.private.alloy.electrictouch"
+          28 => "com.apple.private.ac"
+          29 => "com.apple.ess"
+          30 => "com.apple.private.alloy.continuity.activity"
+          31 => "com.apple.private.alloy.phone.auth"
+          32 => "com.apple.private.alloy.classroom"
+          33 => "com.apple.private.alloy.gamecenter.imessage"
+          34 => "com.apple.private.alloy.icloudpairing"
+          35 => "com.apple.private.alloy.biz"
+          36 => "com.apple.private.alloy.willow"
+          37 => "com.apple.private.alloy.proxiedcrashcopier.icloud"
+          38 => "com.apple.private.alloy.iosdiagnostics.icloud"
+          39 => "com.apple.private.alloy.multiplex1"
+          40 => "com.apple.private.alloy.livability"
+          41 => "com.apple.private.alloy.facetime.mw"
+          42 => "com.apple.private.alloy.willow.stream"
+          43 => "com.apple.private.alloy.photostream"
+          44 => "com.apple.private.alloy.facetime.video"
+          45 => "com.apple.private.alloy.facetime.audio"
+          46 => "com.apple.private.alloy.continuity.encryption"
+          47 => "com.apple.private.alloy.sms"
+          48 => "com.apple.private.alloy.nearby"
+        ]
+        "environment" => "production"
+        "port" => "com.apple.identityservicesd.aps"
+        "processName" => "identityservicesd"
+        "pushWake" => [
+          0 => "com.apple.private.alloy.copresence"
+          1 => "com.apple.private.alloy.fmd"
+          2 => "com.apple.private.alloy.coreduet.sync"
+          3 => "com.apple.private.alloy.avconference.icloud"
+          4 => "com.apple.private.alloy.screensharing"
+          5 => "com.apple.private.ids"
+          6 => "com.apple.private.alloy.toolchestlite"
+          7 => "com.apple.private.alloy.accessibility.switchcontrol"
+          8 => "com.apple.private.alloy.safeview"
+          9 => "com.apple.private.alloy.fmf"
+          10 => "com.apple.private.alloy.ids.cloudmessaging"
+          11 => "com.apple.private.alloy.screensharing.qr"
+          12 => "com.apple.private.alloy.maps"
+          13 => "com.apple.private.alloy.gamecenter"
+          14 => "com.apple.private.alloy.thumper.keys"
+          15 => "com.apple.private.alloy.quickrelay"
+          16 => "com.apple.private.alloy.continuity.tethering"
+          17 => "com.apple.private.alloy.autobugcapture"
+          18 => "com.apple.private.alloy.phonecontinuity"
+          19 => "com.apple.private.alloy.facetime.multi"
+          20 => "com.apple.private.alloy.facetime.lp"
+          21 => "com.apple.private.alloy.messagenotification"
+          22 => "com.apple.private.alloy.continuity.unlock"
+          23 => "com.apple.madrid"
+          24 => "com.apple.private.alloy.applepay"
+          25 => "com.apple.private.alloy.digitalhealth"
+          26 => "com.apple.private.alloy.tips"
+          27 => "com.apple.private.alloy.electrictouch"
+          28 => "com.apple.private.ac"
+          29 => "com.apple.ess"
+          30 => "com.apple.private.alloy.continuity.activity"
+          31 => "com.apple.private.alloy.phone.auth"
+          32 => "com.apple.private.alloy.classroom"
+          33 => "com.apple.private.alloy.gamecenter.imessage"
+          34 => "com.apple.private.alloy.icloudpairing"
+          35 => "com.apple.private.alloy.biz"
+          36 => "com.apple.private.alloy.willow"
+          37 => "com.apple.private.alloy.proxiedcrashcopier.icloud"
+          38 => "com.apple.private.alloy.iosdiagnostics.icloud"
+          39 => "com.apple.private.alloy.multiplex1"
+          40 => "com.apple.private.alloy.livability"
+          41 => "com.apple.private.alloy.itunes"
+          42 => "com.apple.private.alloy.facetime.mw"
+          43 => "com.apple.private.alloy.willow.stream"
+          44 => "com.apple.private.alloy.photostream"
+          45 => "com.apple.private.alloy.facetime.video"
+          46 => "com.apple.private.alloy.facetime.audio"
+          47 => "com.apple.private.alloy.continuity.encryption"
+          48 => "com.apple.private.alloy.sms"
+          49 => "com.apple.private.alloy.nearby"
+        ]
+        "tokenAcked" => 1
+        "user" => "501"
+      }
+      "com.apple.keyboardServices.textReplacementServer.aps" => {
+        "darkWakeEnabled" => 0
+        "enabled" => [
+          0 => "com.apple.icloud-container.com.apple.keyboardservicesd"
+        ]
+        "environment" => "production"
+        "port" => "com.apple.keyboardServices.textReplacementServer.aps"
+        "processName" => "keyboardservicesd"
+        "tokenAcked" => 1
+        "user" => "501"
+      }
+      "com.apple.Maps.mapspushd.icloud" => {
+        "darkWakeEnabled" => 0
+        "enabled" => [
+          0 => "com.apple.maps.icloud"
+        ]
+        "environment" => "production"
+        "port" => "com.apple.Maps.mapspushd.icloud"
+        "processName" => "mapspushd"
+        "tokenAcked" => 1
+        "user" => "501"
+      }
+      "com.apple.passd.aps" => {
+        "darkWakeEnabled" => 0
+        "enabled" => [
+          0 => "com.apple.peerpayment"
+          1 => "com.apple.passd"
+          2 => "com.apple.account.service"
+          3 => "com.apple.apply.service"
+        ]
+        "environment" => "production"
+        "port" => "com.apple.passd.aps"
+        "processName" => "passd"
+        "tokenAcked" => 1
+        "user" => "501"
+      }
+      "com.apple.photos.cloud.pushnotification" => {
+        "darkWake" => [
+          0 => "com.apple.icloud-container.com.apple.photos.cloud"
+        ]
+        "darkWakeEnabled" => 1
+        "environment" => "production"
+        "opportunistic" => [
+          0 => "com.apple.icloud-container.com.apple.photos.cloud"
+        ]
+        "port" => "com.apple.photos.cloud.pushnotification"
+        "processName" => "cloudphotod"
+        "tokenAcked" => 1
+        "user" => "501"
+      }
+      "com.apple.SafariBookmarksSyncAgent.Push" => {
+        "darkWakeEnabled" => 0
+        "enabled" => [
+          0 => "com.apple.icloud-container.com.apple.SafariBookmarksSyncAgent"
+        ]
+        "environment" => "production"
+        "port" => "com.apple.SafariBookmarksSyncAgent.Push"
+        "processName" => "SafariBookmarksSyncAgent"
+        "tokenAcked" => 1
+        "user" => "501"
+      }
+      "com.apple.securityd.aps" => {
+        "darkWake" => [
+          0 => "com.apple.icloud-container.com.apple.securityd"
+          1 => "com.apple.icloud-container.com.apple.TrustedPeersHelper"
+          2 => "com.apple.icloud-container.com.apple.security.cuttlefish"
+        ]
+        "darkWakeEnabled" => 1
+        "enabled" => [
+          0 => "com.apple.icloud-container.com.apple.security.cuttlefish"
+          1 => "com.apple.icloud-container.com.apple.securityd"
+          2 => "com.apple.icloud-container.com.apple.TrustedPeersHelper"
+        ]
+        "environment" => "production"
+        "port" => "com.apple.securityd.aps"
+        "processName" => "secd"
+        "tokenAcked" => 1
+        "user" => "501"
+      }
+      "com.apple.siriknowledged.aps" => {
+        "darkWakeEnabled" => 0
+        "enabled" => [
+          0 => "com.apple.icloud-container.com.apple.siriknowledged"
+        ]
+        "environment" => "production"
+        "port" => "com.apple.siriknowledged.aps"
+        "processName" => "siriknowledged"
+        "tokenAcked" => 1
+        "user" => "501"
+      }
+      "com.apple.syncdefaultsd.push" => {
+        "darkWake" => [
+          0 => "com.me.keyvalueservice"
+        ]
+        "darkWakeEnabled" => 1
+        "enabled" => [
+          0 => "com.me.keyvalueservice"
+        ]
+        "environment" => "production"
+        "port" => "com.apple.syncdefaultsd.push"
+        "processName" => "syncdefaultsd"
+        "tokenAcked" => 1
+        "user" => "501"
+      }
+    }
+  }
+  "APSSystemUsers" => {
+    "0" => {length = 16, bytes = 0xffffeeeeddddccccbbbbaaaa00000000}
+    "88" => {length = 16, bytes = 0xffffeeeeddddccccbbbbaaaa00000058}
+    "248" => {length = 16, bytes = 0xffffeeeeddddccccbbbbaaaa000000f8}
+    "260" => {length = 16, bytes = 0xffffeeeeddddccccbbbbaaaa00000104}
+    "501" => {length = 16, bytes = 0xeXX}
+}
