@@ -1,0 +1,98 @@
+{
+  "BluetoothAccStatus" => 1
+  "BluetoothStats" => {
+    "ClassicConnectionTimeout" => 0
+    "CommandTimeouts" => 0
+    "CoreDump" => 0
+    "HardReset" => 0
+    "HardwareError" => 0
+    "kLowEnergyMICError" => 0
+    "LongRangeDisconnects" => 0
+    "LowEnergy3ETimeout" => 0
+    "LowEnergyConnectionTimeout" => 0
+    "MediumRangeDisconnects" => 0
+    "NearRangeDisconnects" => 0
+    "SlowEnqueueData" => 0
+    "SlowEnqueueDataTimeMicroseconds" => 0
+    "USBPipeStall" => 0
+  }
+  "BluetoothVersionNumber" => 6
+  "ControllerPowerState" => 0
+  "CoreBluetoothCache" => {
+  }
+  "D2D MAC Address" => {length = 6, bytes = 0x0200acc97ee3}
+  "DeviceCache" => {
+  }
+  "HIDDevices" => [
+  ]
+  "IgnoredDevices" => [
+  ]
+  "PersistentPorts" => {
+    "incoming port - Bluetooth-Incoming-Port" => {
+      "BTAuthenticationRequired" => 0
+      "BTEncryptionType" => 0
+      "BTName" => "incoming port - Bluetooth-Incoming-Port"
+      "BTPSM" => 3
+      "BTRFCOMMChannel" => 3
+      "BTSerialConnectionType" => 0
+      "BTTTYName" => "Bluetooth-Incoming-Port"
+      "HiddenPort" => 1
+      "IOTTYBaseName" => "Bluetooth-Incoming-Port"
+      "P49SerialPort" => 1
+    }
+  }
+  "PersistentPortsServices" => {
+    "incoming port - Bluetooth-Incoming-Port" => {
+      "0000 - ServiceRecordHandle*" => 65540
+      "0001 - ServiceClassIDList" => [
+        0 => {length = 2, bytes = 0x1101}
+      ]
+      "0004 - ProtocolDescriptorList" => [
+        0 => [
+          0 => {length = 2, bytes = 0x0100}
+        ]
+        1 => [
+          0 => {length = 2, bytes = 0x0003}
+          1 => {
+            "DataElementSize" => 1
+            "DataElementType" => 1
+            "DataElementValue" => 3
+          }
+        ]
+      ]
+      "0005 - BrowseGroupList*" => [
+        0 => {length = 2, bytes = 0x1002}
+      ]
+      "0006 - LanguageBaseAttributeIDList*" => [
+        0 => {
+          "DataElementSize" => 2
+          "DataElementType" => 1
+          "DataElementValue" => 25966
+        }
+        1 => {
+          "DataElementSize" => 2
+          "DataElementType" => 1
+          "DataElementValue" => 106
+        }
+        2 => {
+          "DataElementSize" => 2
+          "DataElementType" => 1
+          "DataElementValue" => 256
+        }
+      ]
+      "0009 - BluetoothProfileDescriptorList" => [
+        0 => [
+          0 => {length = 2, bytes = 0x1101}
+          1 => {
+            "DataElementSize" => 2
+            "DataElementType" => 1
+            "DataElementValue" => 256
+          }
+        ]
+      ]
+      "0100 - ServiceName*" => "Bluetooth-Incoming-Port"
+    }
+  }
+  "PrefKeyLoggingEnabled" => 0
+  "UplaodStatus" => 2
+}
