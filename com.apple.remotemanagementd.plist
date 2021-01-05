@@ -1,0 +1,19 @@
+{
+  "EnablePressuredExit" => 1
+  "Label" => "com.apple.remotemanagementd"
+  "LaunchEvents" => {
+    "com.apple.distnoted.matching" => {
+      "com.apple.remotemanagement.cloudConfigAvailable" => {
+        "Name" => "CPCloudConfigIsMDMv2Notification"
+      }
+    }
+  }
+  "MachServices" => {
+    "com.apple.aps.remotemanagementd.http.apns-dev" => 1
+    "com.apple.aps.remotemanagementd.http.apns-prod" => 1
+    "com.apple.remotemanagementd" => 1
+  }
+  "ProcessType" => "Background"
+  "Program" => "/System/Library/PrivateFrameworks/RemoteManagement.framework/remotemanagementd"
+  "PublishesEvents" => "com.apple.remotemanagement.configs"
+}
