@@ -1,0 +1,22 @@
+#UNKNOWN#
+{
+  "CacheVersion" => 1
+  "com.apple.ess" => {
+    "mailto:admin@rude.com" => {
+      "IDStatus" => 2
+      "LookupDate" => 624214797.022049
+    }
+  "com.apple.madrid" => {
+    "mailto:admin@rude.com" => {
+      "IDStatus" => 2
+      "LookupDate" => 624214796.743844
+    }
+  "com.apple.private.alloy.nearby" => {
+    "mailto:danielhazzard7@gmail.com" => {
+      "IDStatus" => 1
+      "LookupDate" => 625206666.983565
+    }
+    "mailto:sia@txmedglove.com" => {
+      "IDStatus" => 1
+      "LookupDate" => 625123287.369903
+    }
