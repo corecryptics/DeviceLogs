@@ -1,0 +1,106 @@
+{
+  "DefaultDevices" => {
+    "com.apple.CoreSimulator.SimRuntime.iOS-14-1" => {
+      "com.apple.CoreSimulator.SimDeviceType.iPad--8th-generation-" => "9490F8B0-AA25-490F-B6CA-810F67CB4B47"
+      "com.apple.CoreSimulator.SimDeviceType.iPad-Air--4th-generation-" => "04580C90-37AF-4005-8EE0-D1285E7205C5"
+      "com.apple.CoreSimulator.SimDeviceType.iPad-Pro--9-7-inch-" => "96EB6399-0895-441C-A93E-12786E9E233C"
+      "com.apple.CoreSimulator.SimDeviceType.iPad-Pro--11-inch---2nd-generation-" => "54BDB0C5-9424-405A-B607-37B3B680D7C4"
+      "com.apple.CoreSimulator.SimDeviceType.iPad-Pro--12-9-inch---4th-generation-" => "6E568875-89CB-4E1B-A219-ED33C34B262E"
+      "com.apple.CoreSimulator.SimDeviceType.iPhone-8" => "9DFA4F95-A42D-4124-9EB1-D63AACB484CE"
+      "com.apple.CoreSimulator.SimDeviceType.iPhone-8-Plus" => "CEFB4AB7-1E78-477C-AF0B-484B6564F258"
+      "com.apple.CoreSimulator.SimDeviceType.iPhone-11" => "6B5C6BB7-4E86-44F7-B464-38B5BEB01299"
+      "com.apple.CoreSimulator.SimDeviceType.iPhone-11-Pro" => "E5F4CA40-7B2A-4D68-95F2-A955942C4BCA"
+      "com.apple.CoreSimulator.SimDeviceType.iPhone-11-Pro-Max" => "35427566-509F-453A-AAD5-7AC4A11B5C21"
+      "com.apple.CoreSimulator.SimDeviceType.iPhone-12" => "D94F4A75-970A-491C-A789-2E66652091DC"
+      "com.apple.CoreSimulator.SimDeviceType.iPhone-12-mini" => "89716C55-7AF3-4E5A-8A00-AB537E164869"
+      "com.apple.CoreSimulator.SimDeviceType.iPhone-12-Pro" => "E1D74D40-3FF5-4E91-8977-098B0A233C5C"
+      "com.apple.CoreSimulator.SimDeviceType.iPhone-12-Pro-Max" => "63381254-7A77-4185-9312-ED8D8F805723"
+      "com.apple.CoreSimulator.SimDeviceType.iPhone-SE--2nd-generation-" => "9BBFA9C3-BB08-4992-836C-A0AF6E6F99D7"
+      "com.apple.CoreSimulator.SimDeviceType.iPod-touch--7th-generation-" => "0BFC916E-D01F-4A13-85B7-A90EEE219AE3"
+    }
+    "com.apple.CoreSimulator.SimRuntime.iOS-14-3" => {
+      "com.apple.CoreSimulator.SimDeviceType.iPad--8th-generation-" => "43012814-982A-4F8E-B14C-68CBDEE9CA59"
+      "com.apple.CoreSimulator.SimDeviceType.iPad-Air--4th-generation-" => "44C2CF52-1C49-46C4-993D-1141EA7A6D45"
+      "com.apple.CoreSimulator.SimDeviceType.iPad-Pro--9-7-inch-" => "0E7D28F6-68EB-4357-858C-DAC6A6B6C066"
+      "com.apple.CoreSimulator.SimDeviceType.iPad-Pro--11-inch---2nd-generation-" => "D71EEE37-022D-444B-BD95-FC6E9F17CC1C"
+      "com.apple.CoreSimulator.SimDeviceType.iPad-Pro--12-9-inch---4th-generation-" => "996C1A8B-5779-4EAD-97B4-9F70A89D24E7"
+      "com.apple.CoreSimulator.SimDeviceType.iPhone-8" => "42E8BB4E-B00F-453B-B6D5-087347AA74D2"
+      "com.apple.CoreSimulator.SimDeviceType.iPhone-8-Plus" => "7814C67B-2CFB-43B0-9CEF-24D97CBA51CC"
+      "com.apple.CoreSimulator.SimDeviceType.iPhone-11" => "D3511928-2421-4E9F-A710-F23164C35CCA"
+      "com.apple.CoreSimulator.SimDeviceType.iPhone-11-Pro" => "32B84B3D-F21B-46DC-954B-AF9FF2988BC1"
+      "com.apple.CoreSimulator.SimDeviceType.iPhone-11-Pro-Max" => "B137E409-4C24-4282-86F4-88AD9BB80DD8"
+      "com.apple.CoreSimulator.SimDeviceType.iPhone-12" => "A545603F-33E4-4259-808B-AE2E7CFA1180"
+      "com.apple.CoreSimulator.SimDeviceType.iPhone-12-mini" => "F3C951F8-3B6D-4ECB-98F2-15173D02D79A"
+      "com.apple.CoreSimulator.SimDeviceType.iPhone-12-Pro" => "9E5F04B4-EAEF-4A26-950D-96AAA781F4BE"
+      "com.apple.CoreSimulator.SimDeviceType.iPhone-12-Pro-Max" => "2CCED384-0711-43C7-8868-0748DEFE6BF1"
+      "com.apple.CoreSimulator.SimDeviceType.iPhone-SE--2nd-generation-" => "A5DFBD9F-531F-4F43-A625-CED8D9012642"
+      "com.apple.CoreSimulator.SimDeviceType.iPod-touch--7th-generation-" => "DE45B44C-FFF1-470F-B454-C497526B9C99"
+    }
+    "com.apple.CoreSimulator.SimRuntime.tvOS-14-0" => {
+      "com.apple.CoreSimulator.SimDeviceType.Apple-TV-4K-4K" => "C845C67A-0E59-4B5B-8AE2-B52985EE4C57"
+      "com.apple.CoreSimulator.SimDeviceType.Apple-TV-4K-1080p" => "A6DAD338-3ACF-4E9C-BFC7-574A67118438"
+      "com.apple.CoreSimulator.SimDeviceType.Apple-TV-1080p" => "47047225-0374-442B-9C5E-0DB6B8356A4C"
+    }
+    "com.apple.CoreSimulator.SimRuntime.tvOS-14-3" => {
+      "com.apple.CoreSimulator.SimDeviceType.Apple-TV-4K-4K" => "6401858F-B93F-4B96-A0DD-06A406BEDB72"
+      "com.apple.CoreSimulator.SimDeviceType.Apple-TV-4K-1080p" => "43E58402-75B3-4308-B128-628480244A85"
+      "com.apple.CoreSimulator.SimDeviceType.Apple-TV-1080p" => "021652E0-4D66-4C0C-AE07-325E9D38B087"
+    }
+    "com.apple.CoreSimulator.SimRuntime.watchOS-7-0" => {
+      "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-Series-5-40mm" => "C8AAD834-5588-482C-BBBC-6A8EAF9D3F4D"
+      "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-Series-5-44mm" => "4F8610AB-E0B7-4035-8351-3ED684FC08B8"
+      "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-Series-6-40mm" => "659F4E44-E716-4E55-99E9-7D055CDD076F"
+      "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-Series-6-44mm" => "6E28CF07-EDED-49F5-B3C8-42ED8668F711"
+    }
+    "com.apple.CoreSimulator.SimRuntime.watchOS-7-2" => {
+      "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-Series-5-40mm" => "807D08F4-E4F9-49A1-8950-9D05E0075E58"
+      "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-Series-5-44mm" => "FCD49DA9-FF51-4A88-B74A-45205919CDD4"
+      "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-Series-6-40mm" => "1B860A02-9037-4748-8FAB-B23D08CCBDC3"
+      "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-Series-6-44mm" => "D5EFE648-9651-4F90-8254-23D1216F6B24"
+    }
+    "version" => 0
+  }
+  "DevicePairs" => {
+    "2C8B0239-14F2-4129-8834-DA1B0EEBF88F" => {
+      "active" => 1
+      "companion" => "9E5F04B4-EAEF-4A26-950D-96AAA781F4BE"
+      "gizmo" => "1B860A02-9037-4748-8FAB-B23D08CCBDC3"
+    }
+    "2D602323-01C2-4201-9153-323A36310321" => {
+      "active" => 1
+      "companion" => "D94F4A75-970A-491C-A789-2E66652091DC"
+      "gizmo" => "4F8610AB-E0B7-4035-8351-3ED684FC08B8"
+    }
+    "5E210E2F-F139-4A99-A4F8-B213637BB892" => {
+      "active" => 1
+      "companion" => "89716C55-7AF3-4E5A-8A00-AB537E164869"
+      "gizmo" => "C8AAD834-5588-482C-BBBC-6A8EAF9D3F4D"
+    }
+    "89F3298E-AC34-49DD-9AD9-2A9FE6AF3629" => {
+      "active" => 1
+      "companion" => "2CCED384-0711-43C7-8868-0748DEFE6BF1"
+      "gizmo" => "D5EFE648-9651-4F90-8254-23D1216F6B24"
+    }
+    "394ECA76-E888-4EC5-BC9F-8E863F374AEB" => {
+      "active" => 1
+      "companion" => "63381254-7A77-4185-9312-ED8D8F805723"
+      "gizmo" => "6E28CF07-EDED-49F5-B3C8-42ED8668F711"
+    }
+    "A138A16C-4C7E-4D75-AAF5-275261F4BDDB" => {
+      "active" => 1
+      "companion" => "A545603F-33E4-4259-808B-AE2E7CFA1180"
+      "gizmo" => "FCD49DA9-FF51-4A88-B74A-45205919CDD4"
+    }
+    "B621CC45-DC31-420A-A86B-B4609DD01EC2" => {
+      "active" => 1
+      "companion" => "F3C951F8-3B6D-4ECB-98F2-15173D02D79A"
+      "gizmo" => "807D08F4-E4F9-49A1-8950-9D05E0075E58"
+    }
+    "BDEB8EFA-165D-48BA-87D4-F752FD4F4AF7" => {
+      "active" => 1
+      "companion" => "E1D74D40-3FF5-4E91-8977-098B0A233C5C"
+      "gizmo" => "659F4E44-E716-4E55-99E9-7D055CDD076F"
+    }
+  }
+  "Version" => 0
+}
