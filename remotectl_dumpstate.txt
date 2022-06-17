@@ -1,0 +1,98 @@
+Local device
+	UUID: XXXXXXX-44C8-XXXX-B866-D702XXXXXXX
+	Messaging Protocol Version: 3
+	Product Type: iPhone13,3
+	OS Build: 15.4.1 (19E258)
+	Properties: {
+		AppleInternal => false
+		CPUArchitecture => arm64e
+		ChipID => 33025
+		EffectiveProductionStatusSEP => true
+		EthernetMacAddress => 08:8f:dd:XX:XX:XX
+		HWModel => D53pAP
+		HasSEP => true
+		IsUIBuild => true
+		RegionInfo => LL/A
+		DeviceSupportsLockdown => true
+		EffectiveSecurityModeAp => true
+		SigningFuse => true
+		BuildVersion => 19E258
+		OSVersion => 15.4.1
+		SensitivePropertiesVisible => true
+		Image4CryptoHashMethod => sha2-384
+		MobileDeviceMinimumVersion => 1351
+		ProductName => iPhone OS
+		ProductType => iPhone13,3
+		SerialNumber => HH3XXXXXXXXX
+		BootSessionUUID => 042D8A89-73B8-489A-8509-77XXXXXXXXXX
+		BoardId => 14
+		DeviceColor => 1
+		EffectiveProductionStatusAp => true
+		EffectiveSecurityModeSEP => true
+		StoreDemoMode => false
+		UniqueChipID => 563841693XXXXXXX
+		UniqueDeviceID => 00008101-0014081C3XXXXXXX
+		RemoteXPCVersionFlags => 7205759403XXXXXXX
+		CertificateProductionStatus => true
+		CertificateSecurityMode => true
+		DeviceClass => iPhone
+		DeviceEnclosureColor => 9
+		ModelNumber => NGK43
+		RegionCode => LL
+		SecurityDomain => 1
+		OSInstallEnvironment => false
+		HardwarePlatform => t8101
+		Image4Supported => true
+	}
+	Services:
+		com.apple.pcapd.shim.remote
+		com.apple.mobile.diagnostics_relay.shim.remote
+		com.apple.misagent.shim.remote
+		com.apple.crashreportcopymobile.shim.remote
+		com.apple.afc.shim.remote
+		com.apple.osanalytics.logTransfer
+		com.apple.fusion.remote.service
+		com.apple.syslog_relay.shim.remote
+		com.apple.preboardservice.shim.remote
+		com.apple.idamd.shim.remote
+		com.apple.mobile.assertion_agent.shim.remote
+		com.apple.mobile.notification_proxy.remote
+		com.apple.carkit.service.shim.remote
+		com.apple.companion_proxy.shim.remote
+		com.apple.mobile.insecure_notification_proxy.remote
+		com.apple.PurpleReverseProxy.Ctrl.shim.remote
+		com.apple.os_trace_relay.shim.remote
+		com.apple.mobile.mobile_image_mounter.shim.remote
+		com.apple.crashreportmover.shim.remote
+		com.apple.commcenter.mobile-helper-cbupdateservice.shim.remote
+		com.apple.mobile.lockdown.remote.untrusted
+		com.apple.webinspector.shim.remote
+		com.apple.streaming_zip_conduit.shim.remote
+		com.apple.remote.installcoordination_proxy
+		com.apple.preboardservice_v2.shim.remote
+		com.apple.mobile.notification_proxy.shim.remote
+		com.apple.dt.remotepairingdeviced.lockdown.shim.remote
+		com.apple.PurpleReverseProxy.Conn.shim.remote
+		com.apple.mobileactivationd.shim.remote
+		com.apple.mobile.heartbeat.shim.remote
+		com.apple.corecaptured.remoteservice
+		com.apple.RestoreRemoteServices.restoreserviced
+		com.apple.mobile.lockdown.remote.trusted
+		com.apple.sysdiagnose.remote
+		com.apple.mobile.file_relay.shim.remote
+		com.apple.atc2.shim.remote
+		com.apple.mobile.installation_proxy.shim.remote
+		com.apple.mobile.insecure_notification_proxy.shim.remote
+		com.apple.carkit.remote-iap.service
+		com.apple.iosdiagnostics.relay.shim.remote
+		com.apple.bluetooth.BTPacketLogger.shim.remote
+		com.apple.mobilebackup.shim.remote
+		com.apple.mobilesync.shim.remote
+		com.apple.dt.remoteFetchSymbols
+		com.apple.mobile.house_arrest.shim.remote
+		com.apple.mobile.storage_mounter_proxy.bridge
+		com.apple.atc.shim.remote
+		com.apple.mobile.MCInstall.shim.remote
+		com.apple.springboardservices.shim.remote
+		com.apple.mobilebackup2.shim.remote
+
