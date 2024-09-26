@@ -1,4 +1,3 @@
-MBPro:~ mrrobot$ plutil -p /Users/mrrobot/Desktop/com.apple.apsd\ copy.plist 
 {
   "ActivationRecordListeners" => [
     0 => "com.apple.aps.ManagedClient.enroll"
